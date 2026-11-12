@@ -14,9 +14,9 @@
 >Accepts attendance percentage as input.
 >Uses conditional statements (if, elif, else).
 >Demonstrates logical operators (and, or).
->Beginner-friendly project.
-🛠️ Technologies Used
->Python 3
+>Beginner-friendly project.<
+<🛠️ Technologies Used
+Python 3
 💻 Code:Python
 >marks = float(input("Enter marks out of 100: "))
 >att = float(input("Enter attendance in percentage: "))
